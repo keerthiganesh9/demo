@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31227" started-at="2021-05-15T21:58:53Z" finished-at="2021-05-15T21:59:25Z">
+    <groups>
+    </groups>
+    <test name="Validating Book INFO" duration-ms="31227" started-at="2021-05-15T21:58:53Z" finished-at="2021-05-15T21:59:25Z">
+      <class name="TestCases.Validatebook">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:TestCases.Validatebook@b684286]" name="initialize" is-config="true" duration-ms="9994" started-at="2021-05-16T03:28:53Z" finished-at="2021-05-16T03:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="validateBookInfo()[pri:0, instance:TestCases.Validatebook@b684286]" name="validateBookInfo" duration-ms="20117" started-at="2021-05-16T03:29:04Z" finished-at="2021-05-16T03:29:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateBookInfo -->
+        <test-method status="PASS" signature="browserclosing()[pri:0, instance:TestCases.Validatebook@b684286]" name="browserclosing" is-config="true" duration-ms="1099" started-at="2021-05-16T03:29:24Z" finished-at="2021-05-16T03:29:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclosing -->
+      </class> <!-- TestCases.Validatebook -->
+    </test> <!-- Validating Book INFO -->
+  </suite> <!-- Suite -->
+</testng-results>
